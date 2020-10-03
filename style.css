@@ -1,0 +1,225 @@
+
+*{
+  margin:0;
+  padding:0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 6px;
+    overflow: hidden;
+    background-color: #2d3e50;
+    font-family: sans-serif
+  }
+  .menu{
+    color: blanchedalmond;
+     font-size: 20px;
+  }
+  .list{
+    float: right;
+  }
+  .home{
+    color: black;
+  }
+    a:hover {
+        color: #AECFE5;;
+        background-color: transparent;
+        text-decoration: none;
+      }
+  li {
+    float: left;
+  }
+  h1,h2,h3,h4,p{
+    font-family: sans-serif;
+  }
+  li ,a {
+    display: block;
+    color: #1f8dd6;
+    text-align: center;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  .bigbold{
+    font-size: 50px;
+    padding: 50px 35px;
+    margin-top: 80px; 
+    margin-left: 280px;
+    width: 550px;
+  }
+  .para{
+    color: rgb(221, 222, 226);
+    padding-top: 10px;
+  }
+.big{
+    background-color:#1f8dd6;
+    height: 500px;
+    font-family: sans-serif;
+}
+.bold{
+    padding: 60px;
+    text-align: center;
+    margin-bottom;: 70px;
+}
+h1{
+    color: white;
+    border: 3px solid white;
+    font-weight: 100;
+    border-radius: 5px;
+    line-height: 1em;
+    font-size: 23px;
+    letter-spacing: 2px;
+}
+#site{
+  color: white;
+  letter-spacing: 3px;
+  font-size: 22px;
+}
+.fas fa-heart{
+  float: left;
+}
+.total{
+  margin-top: 60px;
+  margin-left: 30px;
+  margin-bottom: 80px;
+}
+.col{
+  width: 25%;
+  float: left;
+}
+.h2{
+  margin-top:80px;
+}
+h2{
+  color: #1f8dd6;
+  font-size: 21px;
+}
+h1,h4{
+    color: white;
+    text-align: center;
+}
+h3{
+  margin-top: 40px;
+    color: #2d3e50;
+}
+button{
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 8px 18px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: #1f8dd6;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #1f8dd6;
+  }
+  .star{
+    background: white;
+    color: #1f8dd6;
+    border-radius: 5px;
+    font-size: 26px;
+    padding: 010px,5px;
+    border: white;
+    margin-top: 20px;
+  }
+  
+  p{
+    color: #869596;
+    line-height: 1.6;
+    margin-top: 20px;
+  }
+  .total{
+    margin-bottom: 150px;
+    padding-bottom: 120px;
+    
+  }
+  .lab{
+    background-color: #2d3e50;
+    height: 330px;
+  }
+  .get{
+    padding-top: 10px;
+  }
+  .lab2{
+    float: right;
+    width: 60%;
+    overflow: auto;
+    margin-top: 110px;
+    margin-bottom: 50px;
+
+  }
+  .lab1{
+    float: left;
+    overflow: auto;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+  }
+  .png{
+    margin: 0px;
+    padding: 0px;
+  }
+  .dolore1{
+    float: left;
+    width: 35%;
+    padding: 40px;
+    font-size: 19px;
+  }
+  .dolore2{
+    line-height: 1.6;
+    padding-top: 10px;
+    margin-left: 30px;
+    padding-left: 20px;
+  }
+  .dolore{
+    margin-top: 50px;
+    margin-left: 25px;
+  }
+  .doloreA{
+    margin-top: 40PX;
+    padding-top: 20px;
+    padding-right: 10px;
+  }
+  input{
+    font-size: 16px;
+  }
+.sub{
+  font-size: 16px;
+  background-color: #1f8dd6;
+  border: none;
+  border-radius: 5px;
+  color: aliceblue;
+  padding:8px 30px ;
+}
+body{
+  font-family: sans-serif;
+}
+label{
+  color: #2d3e50;
+}
+.footer{
+  background-color: black;
+  color: #869596;
+  height: 45px;
+  clear: both;
+  padding-top: 25px;
+  text-align: center;
+}
